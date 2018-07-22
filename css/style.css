@@ -29,11 +29,11 @@ body {
 header h1 {
 	font-family: 'Baskerville', serif;
   color: rgb(152,173,166);
-  font-size: 3em;
+  font-size: 5em;
   margin: 0;
 }
 
-header a:hover {
+header h1:hover {
 color: rgb(111,127,122);
 }
 
