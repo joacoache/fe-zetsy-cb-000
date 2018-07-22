@@ -39,8 +39,8 @@ h2 {
 }
 
 press img {
-  border: 5px;
-  color: rgb(111,127,122) solid;
+  border: 5px rgb(111,127,122) solid;
+  
 }
 
 footer {
