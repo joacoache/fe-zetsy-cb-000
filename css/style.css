@@ -38,6 +38,11 @@ h2 {
   font-size: 2em;
 }
 
+press img {
+  border: 5px;
+  color: rgb(111,127,122) solid;
+}
+
 footer {
   text-align: right;
   font-size: 70%
