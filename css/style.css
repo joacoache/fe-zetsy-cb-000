@@ -38,6 +38,15 @@ header a:hover {
 color: rgb(111,127,122);
 }
 
+p a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+p a:hover {
+	text-decoration: underline;
+}
+
 h2 {
   color: rgb(111,127,122);
   font-size: 2em;
